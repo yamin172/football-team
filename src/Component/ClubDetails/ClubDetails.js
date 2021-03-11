@@ -36,7 +36,7 @@ const ClubDetails = () => {
     return (
       <div className="container  mt-4">
         <div className="club-banner">
-          <img className="w-25 club-logo" src={strTeamBadge} />
+          <img className="w-25 club-logo" src={strTeamBadge}  alt="img"/>
         </div>
         <div className="container">
           <Card.Body className="bg-primary mt-5 row details-card">
