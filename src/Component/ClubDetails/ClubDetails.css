@@ -1,0 +1,16 @@
+.club-banner{
+    background-image: url(../Image/banner.jpg);
+    height: 321px;
+    width: 100%;
+}
+.club-logo{
+    margin-left: 423px;
+    margin-top: 22px;
+}
+.details-card{
+    border-radius: 10px;
+}
+.social-icons{
+    margin: 26px;
+    font-size: 50px;
+}
